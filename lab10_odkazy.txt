@@ -1,0 +1,9 @@
+
+
+https://keras.io/
+
+https://www.mathworks.com/help/deeplearning/ref/neuralnetfitting-app.html
+
+---------------
+
+https://pytorch.org/
