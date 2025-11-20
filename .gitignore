@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 .idea
 venv_py311
+lab10_dataset.npz
